@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333758305720",
+    "project_id": "zywa-b4a08",
+    "storage_bucket": "zywa-b4a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333758305720:android:a271bfc6bb4b2e32a72b4d",
+        "android_client_info": {
+          "package_name": "com.ahmed.transactionsfilterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2r_LY2yn1Ba3ub5GEOstct771T0kSGSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
