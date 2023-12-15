@@ -1,3 +1,5 @@
+
+https://github.com/Ahmed-makawi/bank-transactions-filter/assets/119809534/b00e6c46-dacc-4549-b81c-e5c2e5540f9c
 # bank transactions filter
 
  ### What this app has:
@@ -6,6 +8,10 @@
 - A database service that collects the relevant transactions.
 - A PDF generation service that takes in the above data and generates a PDF of the transaction list
 - An email service that sends the above PDF to the user's email address as an attachment
+
+
+[video](https://github.com/Ahmed-makawi/bank-transactions-filter/assets/119809534/51851c01-8531-436a-bb60-2cd73710a465)
+
 
 ### What this app uses:
 - javax.mail
