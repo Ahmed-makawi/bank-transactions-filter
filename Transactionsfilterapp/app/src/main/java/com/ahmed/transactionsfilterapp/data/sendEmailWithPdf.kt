@@ -21,7 +21,7 @@ fun sendEmailWithPdf(file: File) {
 
     try {
 
-        val stringSenderEmail = "zoolkeda02@gmail.com"
+        val stringSenderEmail = "YOUR_EMAIL@gmail.com"
         val stringReceiverEmail = "ahmed.mohamed.makawi@gmail.com"
         val stringPasswordSenderEmail = ""// the 16 chars from google 2-step Verification in your account setting
 
